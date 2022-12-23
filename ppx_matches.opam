@@ -6,8 +6,8 @@ Translates [%matches? <PATTERN>] into (function | <PATTERN> -> true | _ -> false
 maintainer: "Will Robson <will at will robson dot uk>"
 authors: "Will Robson <will at will robson dot uk>"
 license: "MIT"
-homepage: "https://github.com/wrbx/ppx_matches"
-bug-reports: "https://github.com/wrbx/ppx_matches/issues"
+homepage: "https://github.com/wrbs/ppx_matches"
+bug-reports: "https://github.com/wrbs/ppx_matches/issues"
 dev-repo: "git://github.com/wrbs/ppx_matches"
 depends: [
   "ocaml" {>= "4.04"}
